@@ -59,9 +59,6 @@
     }else{
     alert("Please choose your gender");
     }
-    if(gender=="male" && calculate==0){
-        document.write("Your were born on "+days[0]+" and your Akan name is "+maleNames[0]);
-    }
     
     }
     
