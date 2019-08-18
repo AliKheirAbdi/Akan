@@ -8,6 +8,7 @@ of the week they were born and then depending on their gender and outputs their 
 ## Setup/Installation Requirements
 * This program is hosted online and requires no extra programs to download and enhance it's functionality.
 * Fill out the form and submit.Once submitted the program will provide your Akan name.
+* You can run the program by visiting https://alikheirabdi.github.io/Akan/
 ## Known Bugs
 Currently the program does not output the Akan Name after input data is provided by user
 ## Technologies Used
