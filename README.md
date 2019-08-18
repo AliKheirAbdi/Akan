@@ -6,8 +6,8 @@
 * This is a web application that takes a user's birthday and calculates the day 
 of the week they were born and then depending on their gender and outputs their Akan Name. 
 ## Setup/Installation Requirements
-* This program is hosted online and requires no programs to download and enhance it's functionality.
-* Fill ot the form and submit.Once submitted the program will provide your Akan name.
+* This program is hosted online and requires no extra programs to download and enhance it's functionality.
+* Fill out the form and submit.Once submitted the program will provide your Akan name.
 ## Known Bugs
 Currently the program does not output the Akan Name after input data is provided by user
 ## Technologies Used
